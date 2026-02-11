@@ -1,0 +1,2 @@
+streamlit pandas numpy Pillow scikit-learn joblib opencv-python
+matplotlib
